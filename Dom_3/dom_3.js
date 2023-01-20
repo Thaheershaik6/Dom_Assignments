@@ -27,3 +27,4 @@ var header = document.getElementById('main-header')
 header.style.borderBottom = 'solid 4px #000';
 var textcolor = document.getElementById('green-color');
 textcolor.style.color = 'green';
+textcolor.style.fontWeight = 'bold';
